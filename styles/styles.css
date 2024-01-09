@@ -1,0 +1,87 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+/* header styles */
+header {
+  background-image: url("../resources/Banner\ Image.png");
+
+  width: 1320px;
+  height: 600px;
+  font-family: "Merriweather", serif;
+  font-family: "Open Sans", sans-serif;
+}
+
+.container .banner-text h3{
+
+    color: #FFF;
+text-align: center;
+
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+padding-top: 177px;
+}
+.container .banner-text h1{
+    color: #FFF;
+    text-align: center;
+   
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px;
+
+}
+.featured{
+    
+    /* width: 1600px; */
+/* height: 7335px; */
+ 
+}
+.container .section-heading h1{
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-top: 120px;
+margin-bottom: 48px;
+}
+.container .section-heading h4{
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin-bottom: 16px;
+}
+.container .section-heading h2{
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 48px;
+}
+.container .section-heading{
+    color: #070211;
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.welcome{
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    background-image: url('../resources/Vectorrr.png');
+}
